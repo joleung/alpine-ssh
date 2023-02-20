@@ -1,3 +1,3 @@
 # alpine docker image with ssh client
 
-Alpine 3.16 with OpenSSH Client
+Alpine 3.17 with OpenSSH Client
